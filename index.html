@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Quiz Challenge</title> <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="start-screen" class="app-container">
+        <h1 class="app-title">Interactive Quiz Challenge</h1>
+        <p class="app-tagline">Test your knowledge and challenge your brain!</p>
+        <button id="start-quiz-btn" class="btn btn-primary btn-large">Start Quiz</button>
+    </div>
+
+    <div id="quiz-main-screen" class="app-container hidden"> <h1 class="quiz-heading">"Time to Prove Your Smarts!"</h1>
+        <div id="quiz-questions-area"> </div>
+        <button id="submit-btn" class="btn">Submit Answer</button>
+        <button id="next-btn" class="btn hidden">Next Question</button>
+        <div class="post-quiz-options hidden">
+            <button id="restart-current-set-btn" class="btn">Restart Current Set</button>
+            <button id="try-new-set-btn" class="btn btn-secondary">Try New Set</button>
+        </div>
+        <div id="result" class="result-hidden"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
