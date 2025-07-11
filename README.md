@@ -19,5 +19,11 @@ The quiz flow includes displaying one question at a time, capturing user respons
 
 During the development process, I referred to various learning resources and tools to understand best practices and improve the application's interactivity. In particular, I used ChatGPT and Google’s Gemini for conceptual support and code suggestions, especially while dealing with DOM manipulation and quiz logic. These tools were helpful in guiding me through certain coding challenges and in optimizing the application's behavior. However, the entire development, design choices, and core logic implementation were carried out using my own knowledge, making this a valuable hands-on learning experience in web development.
 
+## OUTPUT
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b4bb0abb-1808-444b-b204-d79e9c629ceb" />
+
+
+
 
 
