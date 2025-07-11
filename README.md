@@ -18,3 +18,6 @@
 The quiz flow includes displaying one question at a time, capturing user responses, providing immediate visual feedback (such as highlighting correct/incorrect options), and showing the final score once the quiz is completed. Features like “Restart Quiz” and “Try New Set” buttons are available only after quiz completion, keeping the interface clutter-free during the quiz. The structure was kept modular for easy maintenance and future scalability.
 
 During the development process, I referred to various learning resources and tools to understand best practices and improve the application's interactivity. In particular, I used ChatGPT and Google’s Gemini for conceptual support and code suggestions, especially while dealing with DOM manipulation and quiz logic. These tools were helpful in guiding me through certain coding challenges and in optimizing the application's behavior. However, the entire development, design choices, and core logic implementation were carried out using my own knowledge, making this a valuable hands-on learning experience in web development.
+
+
+
