@@ -23,6 +23,8 @@ During the development process, I referred to various learning resources and too
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b4bb0abb-1808-444b-b204-d79e9c629ceb" />
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/7b896755-1918-43b4-b7d1-4b4a4f78875a" />
+
 
 
 
