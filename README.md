@@ -25,6 +25,9 @@ During the development process, I referred to various learning resources and too
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/7b896755-1918-43b4-b7d1-4b4a4f78875a" />
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3bb2c9e7-75ae-4663-afaa-f65305c96522" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3a7cd31c-258e-41f7-b9ef-4a680df16431" />
 
 
 
